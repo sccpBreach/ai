@@ -14,14 +14,19 @@ Agar tetap kompatibel dengan upstream OpenCode.
 Status:
 Accepted
 
-
 ## ADR-002
+
+Date:
+2026-06-11
 
 Decision:
 Tidak inject memory langsung ke system prompt.
 
 Reason:
 Menghindari context overload.
+
+Impact:
+Evolution Context dibuat sebagai layer terpisah.
 
 Status:
 Accepted
