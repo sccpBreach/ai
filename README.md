@@ -1,4 +1,4 @@
-# OpenCode Evolution AI Memory
+# EF-AI opencode 
 
 
 Folder ini adalah external memory untuk pengembangan EF-AI.
