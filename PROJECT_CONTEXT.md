@@ -2,7 +2,7 @@
 
 ## Nama Project
 
-OpenCode Evolution
+EF-AI
 
 
 ## Tujuan
