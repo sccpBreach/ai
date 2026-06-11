@@ -1,7 +1,7 @@
 # Current State
 
 Project:
-OpenCode Evolution
+EF-AI
 
 Phase:
 Phase 1 - Foundation Brain
