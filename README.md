@@ -1,7 +1,7 @@
 # OpenCode Evolution AI Memory
 
 
-Folder ini adalah external memory untuk pengembangan OpenCode Evolution.
+Folder ini adalah external memory untuk pengembangan EF-AI.
 
 
 ## Files
