@@ -28,8 +28,16 @@ Completed:
 [x] DecisionRecord.Service
 [x] CLI status command
 
+## 2026-06-12
 
-Next:
+Phase 1 Hardening completed.
 
-Phase 2:
-Context Intelligence
+Resolved:
+
+- Memory storage dependency issues
+- Error handling improvements
+- Concurrent write protection
+- ADR-003 Evolution.Service contract
+- Project scanning improvements
+
+Phase 2 Context Intelligence is approved to start.
